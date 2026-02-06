@@ -1,0 +1,123 @@
+{
+  "version": 2.0,
+  "questions": [{
+      "question": "Whirling hygrometer should be whirled at an approximate speed of_____",
+      "answers": {
+        "a": "100rpm",
+        "b": "200rpm",
+        "c": "150rpm",
+        "d": "167rpm"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "At dew point",
+      "answers": {
+        "a": "Dry bulb temperature = Wet bulb temperature",
+        "b": "Wet bulb temperature > Dry bulb temperature",
+        "c": "Relative humidity is 100%",
+        "d": "Both a & c"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Wet bulb temperature is measure of _____",
+      "answers": {
+        "a": "Temperature of moisture present in air",
+        "b": " Evaporating capacity of air",
+        "c": "Normal temperature of air",
+        "d": "Sensible heat content of air"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "Dry bulb temperature is measure of",
+      "answers": {
+        "a": "Evaporating capacity of air",
+        "b": "Sensible heat content of air",
+        "c": "Both a & b",
+        "d": "Latent heat content of air"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "Higher the relative humidity,",
+      "answers": {
+        "a": "Lower is the value of wet bulb temperature",
+        "b": " Higher is the value of wet bulb temperature",
+        "c": "Wet bulb temperature is greater than dry bulb temperature",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "Which of the following statement is incorrect?",
+      "answers": {
+        "a": "Wet bulb temperature can be equal to dry bulb temperature",
+        "b": "Wet bulb temperature can never be higher than dry bulb temperature",
+        "c": "Flow of heat at muslin cloth take place through radiation and convection both",
+        "d": "Flow of heat at muslin cloth take place through convection only"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Which of the following statement is correct?",
+      "answers": {
+        "a": "Flow of heat from air to bulb with wet muslin cloth is slower than the rate of heat loss from the bulb with wet muslin due to evaporation",
+        "b": "At wet bulb temperature, flow of heat from air to bulb with wet muslin cloth is equal to the rate of heat loss from the bulb with wet muslin due to evaporation",
+        "c": "Flow of heat from air to bulb with wet muslin cloth is higher than the rate of heat loss from the bulb with wet muslin due to evaporation",
+        "d": "Both a & b"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    }
+  ]
+}
